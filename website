@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motherhood Journey</title>
+    <link rel="stylesheet" href="mamanest.css">
+</head>
+<body>
+    <div class="background">
+        <div class="overlay">
+            <h1 class="heading">Mamanest</h1>
+            <p class="subheading">Your journey of motherhood begins here</p>
+            <a href="soul.prep.html"><button class="option-button">Soul Preparation</button></a>
+<a href="soulculmination.html"><button class="option-button">Soul Culmination</button></a>
+
+            
+        </div>
+    </div>
+
+    
+
+    <script src="mamanest.js"></script>
+</body>
+</html>
